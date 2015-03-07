@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Algorator</string>
+    <string name="dummy_button">LOGIN</string>
+    <string name="dummy_button2">REGISTER</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_search"></string>
+    <string name="action_settings"></string>
+    <string name="title_activity_register">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Register</string>
+    <string name="title_activity_level">level</string>
+    <string name="action_example">WELCOME</string>
+    <string name="title_activity_final_screen">WELCOME2</string>
+    <string name="title_section1">section 1</string>
+    <string name="title_section2">section 2</string>
+    <string name="title_section3">section 3</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="title_activity_screen_final">screen_final</string>
+
+</resources>
